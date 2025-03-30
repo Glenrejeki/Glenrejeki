@@ -12,4 +12,6 @@ Welcome to my GitHub profile! I’m a passionate Informatics student pursuing my
 ## Let’s Connect!
 Feel free to reach out if you’re up for chatting about projects, tech, or even swapping music playlists! Let’s create something awesome together! 🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Jeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glenrejeki&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
