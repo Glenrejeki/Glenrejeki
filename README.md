@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Glen Sitorus! 👋
 
-<!--
-**Glenrejeki/Glenrejeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate Informatics student pursuing my Bachelor’s degree at IT Del. I love tinkering with code, exploring new tech, and building stuff that makes a difference.
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 **Currently Studying**: Bachelor’s in Informatics at IT Del  
+- 👯 **Looking to Collaborate**: On mobile and machine learning projects  
+- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/glen-rejeki-4377b2213/) | [YouTube](https://www.youtube.com/@glensitorustbjs8325)  
+- 😄 **Pronouns**: He/Him  
+- ⚡ **Fun Fact**: I can spend hours coding with music blasting—my favorite tracks are the ones that fuel my algorithm-solving vibes!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let’s Connect!
+Feel free to reach out if you’re up for chatting about projects, tech, or even swapping music playlists! Let’s create something awesome together! 🚀
