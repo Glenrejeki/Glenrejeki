@@ -13,13 +13,19 @@ Welcome to my GitHub profile! I’m a passionate Informatics student pursuing my
 
 ---
 
-## 🌐 Let’s Connect!
-Feel free to reach out if you’d like to chat about projects, tech, or even swap music playlists! Let’s create something awesome together! 🚀
-
----
-
 ## 📊 GitHub Stats
-![Jeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glenrejeki&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Glenrejeki&show_icons=true&theme=transparent" alt="Jeki's GitHub stats" width="48%"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Glenrejeki&theme=transparent" alt="GitHub Streak" width="48%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glenrejeki&layout=compact&theme=transparent" alt="Top Languages" width="48%"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Glenrejeki&theme=transparent" alt="Profile Details" width="48%"/>
+</div>
+
+### 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Glenrejeki&theme=onedark)
 
 ---
 
@@ -71,4 +77,3 @@ Feel free to reach out if you’d like to chat about projects, tech, or even swa
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
-
