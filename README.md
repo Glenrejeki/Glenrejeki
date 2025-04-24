@@ -13,7 +13,7 @@ I love tinkering with code, exploring new tech, and building things that make a 
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Glenrejeki&show_icons=true&theme=transparent" alt="Jeki's GitHub stats" width="48%"/>
   <br/>
